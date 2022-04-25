@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rauniyar.suraj731@gmail.com**
 
-- ⚡ Fun fact **I am a talkative**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
