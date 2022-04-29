@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Web Development**
 
-- 💬 Ask me about **HTML, CSS, Js, React, DSA ,MongoDB**
+- 👨‍💻 All of my projects are available at [https://surajkumargupta.netlify.app](https://surajkumargupta.netlify.app)
+
+- 💬 Ask me about **HTML, CSS, Js, React, DSA ,MongoDB, NodeJs, ExpressJs**
 
 - 📫 How to reach me **rauniyar.suraj731@gmail.com**
 
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wTs2oYnZW-ObXmVM5GwBGZYWbbSvV8xm/view](https://drive.google.com/file/d/1wTs2oYnZW-ObXmVM5GwBGZYWbbSvV8xm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rauniyarsuraj731&show_icons=true&locale=en" alt="rauniyarsuraj731" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rauniyarsuraj731&" alt="rauniyarsuraj731" /></p>
+
