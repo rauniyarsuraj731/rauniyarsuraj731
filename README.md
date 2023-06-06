@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://surajkumargupta.netlify.app](https://surajkumargupta.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, Js, React, DSA ,MongoDB, NodeJs, ExpressJs**
+- 💬 Ask me about **HTML, CSS, Javascript,Typescript, React, Redux, DSA ,MongoDB, NodeJs, ExpressJs**
 
 - 📫 How to reach me **rauniyar.suraj731@gmail.com**
 
