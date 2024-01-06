@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rauniyarsuraj731&label=Profile%20views&color=0e75b6&style=flat" alt="rauniyarsuraj731" /> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack Web Development**
+- 🌱 I’m currently wokring as **Frontend Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://surajkumargupta.netlify.app](https://surajkumargupta.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, Javascript,Typescript, React, Redux, DSA ,MongoDB, NodeJs, ExpressJs**
+- 💬 Ask me about **HTML, CSS, Javascript,Typescript, React, React Native, Redux, DSA ,MongoDB, NodeJs, ExpressJs**
 
 - 📫 How to reach me **rauniyar.suraj731@gmail.com**
 
