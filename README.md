@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rauniyarsuraj731&label=Profile%20views&color=0e75b6&style=flat" alt="rauniyarsuraj731" /> </p>
 
-- 🌱 I’m currently wokring as **Frontend Web Developer**
+- 🌱 I’m currently working as **Frontend Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://surajkumargupta.netlify.app](https://surajkumargupta.netlify.app)
 
