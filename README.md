@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rauniyar.suraj731@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bfxJdswcpPe1d13UrDCGqSLUe2bEK4_4/edit?usp=drive_link&ouid=100517241851938083780&rtpof=true&sd=true)
+- 📄 Know about my experiences [bit.ly/4fpD0nU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
